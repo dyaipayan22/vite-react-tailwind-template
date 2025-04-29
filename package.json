@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
+    "@tanstack/eslint-plugin-router": "^1.115.0",
     "@tanstack/react-router-devtools": "^1.114.33",
     "@tanstack/router-plugin": "^1.114.33",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
